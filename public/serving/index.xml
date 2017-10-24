@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serving on TCBR Worship</title>
+    <link>http://example.org/serving/</link>
+    <description>Recent content in Serving on TCBR Worship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 13:55:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/serving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. Joining the Team</title>
+      <link>http://example.org/serving/joining/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/serving/joining/</guid>
+      <description>Thank you for considering joining us as we seek to serve our gathered church in corporate worship!
+There are many opportunities to use your gifts and interests in music, production arts, and in A/V technology. We want to make sure we get the chance to know you, and for you to know us, so that we can serve together effectively.
+Our process for this is described here:
+1. Application This application is how we begin to get to know you, your experience, and your interests.</description>
+    </item>
+    
+    <item>
+      <title>2. Scheduling</title>
+      <link>http://example.org/serving/scheduling/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/serving/scheduling/</guid>
+      <description>Planning Center We schedule and coordinate our music and production teams using the online tool, Planning Center. Upon joining one of our teams, you will receive an initial welcome email from Planning Center inviting you to login, set a password, and update any contact information.
+We use Planning Center to:
+ Schedule our weekly serve teams. Send weekly reminders. Share the worship service plan. Share all music preparation resources.  It is important to learn to use this tool effectively, as it is the lifeblood of our team communication.</description>
+    </item>
+    
+    <item>
+      <title>3. Mid-week Preparation</title>
+      <link>http://example.org/serving/preparation/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/serving/preparation/</guid>
+      <description>For the music team, all of the resources for personal practice and preparation are made available through Planning Center.
+ When you login to Planning Center, you can click &amp;ldquo;My Schedule&amp;rdquo; to view all of the upcoming Sundays for which you are scheduled to serve:  Clicking on a particular week will allow you to view the current worship service plan for that week.  Hovering the icon on right side of the worship plan will allow you to access all of the resources and attachments for songs.</description>
+    </item>
+    
+    <item>
+      <title>4. Sunday</title>
+      <link>http://example.org/serving/sunday/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/serving/sunday/</guid>
+      <description>Each Sunday, the music and production serve teams go to work, facilitating the corporate worship of our gathered church! This is a challenging, but incredibly rewarding task.
+1. Sunday Morning Schedule 8:00 AM - Production Team Arrives
+8:15 AM - Music Team Arrives
+8:30 AM - Initial Sound Check
+8:45 AM - Serve Team Huddle and Prayer
+9:00 AM - Music Team Rehearsal
+9:40 AM - Music Rehearsal Ends</description>
+    </item>
+    
+  </channel>
+</rss>

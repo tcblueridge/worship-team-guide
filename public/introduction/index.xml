@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on TCBR Worship</title>
+    <link>http://example.org/introduction/</link>
+    <description>Recent content in Introduction on TCBR Worship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 21:02:14 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. Welcome</title>
+      <link>http://example.org/introduction/welcome/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/introduction/welcome/</guid>
+      <description>Hello! And thanks for visiting the worship team guide for The Church at Blue Ridge.
+This is a resource for anyone interested in serving with the music or production teams at TCBR, or for those who just want to learn a little more about worship ministries at TCBR. You will find all of the information here about how the team operates, as well as resources to help our team grow as disciples of Christ and servants to each other.</description>
+    </item>
+    
+    <item>
+      <title>2. Worship Vision</title>
+      <link>http://example.org/introduction/vision/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/introduction/vision/</guid>
+      <description>We have 1 object of worship: God in the Father, Son, and Spirit The Lord is the only one deserving of the worth and weight we ascribe through our worship.
+We worship in 2 contexts: gathered and scattered For a Christian, all of live is worship to The Lord, through by the redemptive work of Jesus Christ, who is the mediator of our worship to the Father, and empowered by the indwelling Holy Spirit, who stirs our affections to praise and reminds us daily of the grace of God.</description>
+    </item>
+    
+    <item>
+      <title>3. Worship Team Values</title>
+      <link>http://example.org/introduction/values/</link>
+      <pubDate>Mon, 23 Oct 2017 21:02:14 -0400</pubDate>
+      
+      <guid>http://example.org/introduction/values/</guid>
+      <description>In light of our worship vision at The Church of Blue Ridge, we who serve our church in the ministry of worship hold to these values:
+1. We value the glory of God and faithfulness to Him above all else  Disciples of Christ Faithful members of the church Faithful in Word and prayer  2. We value clarity and participation in our gathered worship  Songs should be sing-able Lyrics should be clear and discernible Choosing keys for congregational singing rather than making ourselves sound good  3.</description>
+    </item>
+    
+  </channel>
+</rss>
